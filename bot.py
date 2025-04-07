@@ -7,8 +7,8 @@ from collections import deque
 from datetime import datetime
 import emoji
 
-API_ID = 23697291  # Your API ID
-API_HASH = "b3a10e33ef507e864ed7018df0495ca8"  # Your API hash
+API_ID = 23617139  # Your API ID
+API_HASH = "5bfc582b080fa09a1a2eaa6ee60fd5d4"  # Your API hash
 SESSION_FILE = "userbot_session"
 client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
 
